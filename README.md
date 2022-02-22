@@ -1,5 +1,7 @@
 # GT Theme
 
+[![GitHub Super-Linter](https://github.com/konfuzed/gt_drupal_theme/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
+
 `gt_theme` is the official Georgia Tech theme (https://theme.gatech.edu) for the Drupal 9+ content management system.
 
 The GT theme ^3.0.0 is compatible with Drupal ^9.0.0 and above.

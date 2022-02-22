@@ -1,5 +1,5 @@
 {
-    "name": "gt/gt_theme",
+    "name": "gt/gt_drupal_theme",
     "description": "The GT 3.x theme",
-    "type": "drupal-theme"
+    "type": "drupal-custom-theme"
 }
