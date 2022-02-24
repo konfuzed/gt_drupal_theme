@@ -5,7 +5,6 @@ description: 'GT Bootstrap 4 theme for Drupal 9.'
 core_version_requirement: ^9
 package: GT
 project: 'gt_drupal_theme'
-version: '3.0.2'
 base theme: stable
 
 regions:
