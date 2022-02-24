@@ -1,5 +1,6 @@
 {
     "name": "gtsciences/gt",
     "description": "The GT 3.x theme",
-    "type": "drupal-custom-theme"
+    "type": "drupal-custom-theme",
+    "license": "GPL-2.0-or-later"
 }
